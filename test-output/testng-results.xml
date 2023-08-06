@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T17:46:10 IST" name="Suite" finished-at="2023-08-05T17:46:31 IST" duration-ms="20810">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T17:46:10 IST" name="chromeTest" finished-at="2023-08-05T17:46:19 IST" duration-ms="8223">
+      <class name="TestNG_Scripts.CrossBrwsrTesting">
+        <test-method signature="f(java.lang.String)[pri:0, instance:TestNG_Scripts.CrossBrwsrTesting@55182842]" started-at="2023-08-05T17:46:10 IST" name="f" finished-at="2023-08-05T17:46:19 IST" duration-ms="8142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNG_Scripts.CrossBrwsrTesting -->
+    </test> <!-- chromeTest -->
+    <test started-at="2023-08-05T17:46:19 IST" name="edgeTest" finished-at="2023-08-05T17:46:31 IST" duration-ms="12561">
+      <class name="TestNG_Scripts.CrossBrwsrTesting">
+        <test-method signature="f(java.lang.String)[pri:0, instance:TestNG_Scripts.CrossBrwsrTesting@233795b6]" started-at="2023-08-05T17:46:19 IST" name="f" finished-at="2023-08-05T17:46:31 IST" duration-ms="12552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNG_Scripts.CrossBrwsrTesting -->
+    </test> <!-- edgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
